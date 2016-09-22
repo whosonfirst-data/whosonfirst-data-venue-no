@@ -1,0 +1,67 @@
+{
+  "id": 1108702435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7518781,59.9270613,10.7518781,59.9270613",
+    "geom:latitude":59.927061,
+    "geom:longitude":10.751878,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Waldemars Hage 2",
+    "sg:city":"Oslo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"0175",
+    "sg:website":"http://www.n4g.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907775,
+        "102191581",
+        "85633341",
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HlwZX650LEIukISBInsIS_59.927061_10.751878@1308163240"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570863,
+    "wof:geomhash":"bf2947569d57e9738f9d7612f065c5cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751917,
+            "neighbourhood_id":85907775,
+            "region_id":85687089,
+            "venue_id":1108702435
+        }
+    ],
+    "wof:id":1108702435,
+    "wof:lastmodified":1474570863,
+    "wof:name":"N4G.com",
+    "wof:parent_id":85907775,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7518781,
+    59.9270613,
+    10.7518781,
+    59.9270613
+],
+  "geometry": {"coordinates":[10.7518781,59.9270613],"type":"Point"}
+}

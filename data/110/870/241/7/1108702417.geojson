@@ -1,0 +1,96 @@
+{
+  "id": 1108702417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.759726,59.917207,10.759726,59.917207",
+    "geom:latitude":59.917207,
+    "geom:longitude":10.759726,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Christian Krohgs gate 60",
+    "sg:city":"Oslo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"0187",
+    "sg:tags":[
+        "europe",
+        "norway",
+        "internet-services",
+        "start-up",
+        "second-brain",
+        "search",
+        "content",
+        "collect",
+        "share",
+        "organize",
+        "library",
+        "social",
+        "content-management"
+    ],
+    "sg:website":"http://secondbrain.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907771,
+        "102191581",
+        "85633341",
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s18gvn6p0vaP92Q0Vp854_59.917207_10.759726@1308163237"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570863,
+    "wof:geomhash":"99db0995047077736358a4484749eeec",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751917,
+            "neighbourhood_id":85907771,
+            "region_id":85687089,
+            "venue_id":1108702417
+        }
+    ],
+    "wof:id":1108702417,
+    "wof:lastmodified":1474570863,
+    "wof:name":"Secondbrain",
+    "wof:parent_id":85907771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "europe",
+        "norway",
+        "internet-services",
+        "start-up",
+        "second-brain",
+        "search",
+        "content",
+        "collect",
+        "share",
+        "organize",
+        "library",
+        "social",
+        "content-management"
+    ]
+},
+  "bbox": [
+    10.759726,
+    59.917207,
+    10.759726,
+    59.917207
+],
+  "geometry": {"coordinates":[10.759726,59.917207],"type":"Point"}
+}

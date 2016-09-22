@@ -1,0 +1,67 @@
+{
+  "id": 1108702419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.754932,59.928267,10.754932,59.928267",
+    "geom:latitude":59.928267,
+    "geom:longitude":10.754932,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Waldemar Thranes gate 98",
+    "sg:city":"Oslo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"NO-0175",
+    "sg:website":"http://www.opera.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907775,
+        "102191581",
+        "85633341",
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GJelyhKIUocZqnOmEpRzc_59.928267_10.754932@1308163237"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570863,
+    "wof:geomhash":"35d5da6c6062f0618fbbb4be9f209464",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751917,
+            "neighbourhood_id":85907775,
+            "region_id":85687089,
+            "venue_id":1108702419
+        }
+    ],
+    "wof:id":1108702419,
+    "wof:lastmodified":1474570863,
+    "wof:name":"Opera Software",
+    "wof:parent_id":85907775,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.754932,
+    59.928267,
+    10.754932,
+    59.928267
+],
+  "geometry": {"coordinates":[10.754932,59.928267],"type":"Point"}
+}

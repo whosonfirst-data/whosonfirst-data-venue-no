@@ -1,0 +1,61 @@
+{
+  "id": 1108702451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.929338,59.215127,10.929338,59.215127",
+    "geom:latitude":59.215127,
+    "geom:longitude":10.929338,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Trosvikstranda 16",
+    "sg:city":"Fredrikstad",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1608",
+    "sg:tags":[
+        "ad",
+        "advertising",
+        "hour"
+    ],
+    "sg:website":"http://www.adicate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nLaObon9kLECqX5E9O87w_59.215127_10.929338@1308163238"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570864,
+    "wof:geomhash":"74287903867fca4f5505a8f99b1c1a44",
+    "wof:hierarchy":[],
+    "wof:id":1108702451,
+    "wof:lastmodified":1474570864,
+    "wof:name":"adicate timeads",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ad",
+        "advertising",
+        "hour"
+    ]
+},
+  "bbox": [
+    10.929338,
+    59.215127,
+    10.929338,
+    59.215127
+],
+  "geometry": {"coordinates":[10.929338,59.215127],"type":"Point"}
+}

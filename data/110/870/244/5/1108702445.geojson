@@ -1,0 +1,82 @@
+{
+  "id": 1108702445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.6389654,59.9115246,10.6389654,59.9115246",
+    "geom:latitude":59.911525,
+    "geom:longitude":10.638965,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Strandveien 15 PO Box 255",
+    "sg:city":"Lysaker",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1326",
+    "sg:tags":[
+        "mobile-instant-messaging",
+        "social-networking",
+        "rich-communication-suite",
+        "presence",
+        "convergence",
+        "sip-im"
+    ],
+    "sg:website":"http://www.colibria.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85901633,
+        "102191581",
+        "85633341",
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21LR4hizowNY1lAFgZuNfG_59.911525_10.638965@1308163241"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570864,
+    "wof:geomhash":"3246ebea6dcdd29812b2dae7f8178abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751917,
+            "neighbourhood_id":85901633,
+            "region_id":85687089,
+            "venue_id":1108702445
+        }
+    ],
+    "wof:id":1108702445,
+    "wof:lastmodified":1474570864,
+    "wof:name":"Colibria ",
+    "wof:parent_id":85901633,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile-instant-messaging",
+        "social-networking",
+        "rich-communication-suite",
+        "presence",
+        "convergence",
+        "sip-im"
+    ]
+},
+  "bbox": [
+    10.6389654,
+    59.9115246,
+    10.6389654,
+    59.9115246
+],
+  "geometry": {"coordinates":[10.6389654,59.9115246],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1108702425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.412428,63.435324,10.412428,63.435324",
+    "geom:latitude":63.435324,
+    "geom:longitude":10.412428,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Beddingen 10",
+    "sg:city":"Trondheim",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"7014",
+    "sg:tags":[
+        "google",
+        "search",
+        "gmail",
+        "blogger",
+        "find",
+        "information",
+        "youtube"
+    ],
+    "sg:website":"http://google.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904477,
+        "102191581",
+        "85633341",
+        101751927,
+        85687127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zzaFMLtyTLY7WAOCJKOcF_63.435324_10.412428@1308163236"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570863,
+    "wof:geomhash":"375b79a0dca4b6d5703a71e98e69efb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751927,
+            "neighbourhood_id":85904477,
+            "region_id":85687127,
+            "venue_id":1108702425
+        }
+    ],
+    "wof:id":1108702425,
+    "wof:lastmodified":1474570863,
+    "wof:name":"Google",
+    "wof:parent_id":85904477,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "google",
+        "search",
+        "gmail",
+        "blogger",
+        "find",
+        "information",
+        "youtube"
+    ]
+},
+  "bbox": [
+    10.412428,
+    63.435324,
+    10.412428,
+    63.435324
+],
+  "geometry": {"coordinates":[10.412428,63.435324],"type":"Point"}
+}

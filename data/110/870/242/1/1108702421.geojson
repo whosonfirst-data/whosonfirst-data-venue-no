@@ -1,0 +1,86 @@
+{
+  "id": 1108702421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.741712,59.909996,10.741712,59.909996",
+    "geom:latitude":59.909996,
+    "geom:longitude":10.741712,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kongens gate 9",
+    "sg:city":"Oslo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"0153",
+    "sg:tags":[
+        "mobile",
+        "vas",
+        "community",
+        "social-networking",
+        "connected-devices",
+        "android",
+        "tablets",
+        "smartphones"
+    ],
+    "sg:website":"http://www.buongiorno.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906313,
+        "102191581",
+        "85633341",
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vP4OA0uh8RGXxnnT2cSHK_59.909996_10.741712@1308163237"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570863,
+    "wof:geomhash":"bb5aea0df7edf304aeb9abb083a096bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751917,
+            "neighbourhood_id":85906313,
+            "region_id":85687089,
+            "venue_id":1108702421
+        }
+    ],
+    "wof:id":1108702421,
+    "wof:lastmodified":1474570863,
+    "wof:name":"Buongiorno",
+    "wof:parent_id":85906313,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "vas",
+        "community",
+        "social-networking",
+        "connected-devices",
+        "android",
+        "tablets",
+        "smartphones"
+    ]
+},
+  "bbox": [
+    10.741712,
+    59.909996,
+    10.741712,
+    59.909996
+],
+  "geometry": {"coordinates":[10.741712,59.909996],"type":"Point"}
+}

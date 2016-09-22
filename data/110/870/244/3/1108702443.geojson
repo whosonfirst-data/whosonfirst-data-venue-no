@@ -1,0 +1,88 @@
+{
+  "id": 1108702443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7533756,59.9120944,10.7533756,59.9120944",
+    "geom:latitude":59.912094,
+    "geom:longitude":10.753376,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Biskop Gunnerus\u00b4 gate 14A Postboks 2",
+    "sg:city":"Oslo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"0051",
+    "sg:tags":[
+        "it",
+        "information-technology",
+        "consulting",
+        "services",
+        "software",
+        "management",
+        "development",
+        "agile",
+        "scrum"
+    ],
+    "sg:website":"http://www.steria.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907765,
+        "102191581",
+        "85633341",
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5okErDpKKFGqtSbrRPzdMZ_59.912094_10.753376@1308163241"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570864,
+    "wof:geomhash":"ce32aad070f3817d336b2e5bd4d34020",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751917,
+            "neighbourhood_id":85907765,
+            "region_id":85687089,
+            "venue_id":1108702443
+        }
+    ],
+    "wof:id":1108702443,
+    "wof:lastmodified":1474570864,
+    "wof:name":"Steria",
+    "wof:parent_id":85907765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "it",
+        "information-technology",
+        "consulting",
+        "services",
+        "software",
+        "management",
+        "development",
+        "agile",
+        "scrum"
+    ]
+},
+  "bbox": [
+    10.7533756,
+    59.9120944,
+    10.7533756,
+    59.9120944
+],
+  "geometry": {"coordinates":[10.7533756,59.9120944],"type":"Point"}
+}

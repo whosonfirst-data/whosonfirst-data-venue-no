@@ -1,0 +1,71 @@
+{
+  "id": 1108702465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"9.6107217,59.1997691,9.6107217,59.1997691",
+    "geom:latitude":59.199769,
+    "geom:longitude":9.610722,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Klosterg. 33",
+    "sg:city":"Skien",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"3732",
+    "sg:tags":[
+        "crm",
+        "erp",
+        "saas",
+        "accounting",
+        "invoice",
+        "ajax",
+        "email",
+        "project-management"
+    ],
+    "sg:website":"http://24SevenOffice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36PpprHSDe40J0AoT7Tt0o_59.199769_9.610722@1308163239"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570865,
+    "wof:geomhash":"4bede559c6a07d215cc51dad5298eb36",
+    "wof:hierarchy":[],
+    "wof:id":1108702465,
+    "wof:lastmodified":1474570865,
+    "wof:name":"24SevenOffice",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crm",
+        "erp",
+        "saas",
+        "accounting",
+        "invoice",
+        "ajax",
+        "email",
+        "project-management"
+    ]
+},
+  "bbox": [
+    9.6107217,
+    59.1997691,
+    9.6107217,
+    59.1997691
+],
+  "geometry": {"coordinates":[9.6107217,59.1997691],"type":"Point"}
+}

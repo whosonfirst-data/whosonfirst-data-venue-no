@@ -1,0 +1,57 @@
+{
+  "id": 1108702459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.47651,59.852826,10.47651,59.852826",
+    "geom:latitude":59.852826,
+    "geom:longitude":10.47651,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Vak\u00e5sveien 9",
+    "sg:city":"Hvalstad",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"1395",
+    "sg:tags":[
+        "digital-signage-media-hd-video-multimedia-saas"
+    ],
+    "sg:website":"http://www.cignis.no",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kDIRB0nBZZwP3Q5bkIzm3_59.852826_10.476510@1308163238"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570864,
+    "wof:geomhash":"73a7a0d533f74c6cd4fcab626956697a",
+    "wof:hierarchy":[],
+    "wof:id":1108702459,
+    "wof:lastmodified":1474570864,
+    "wof:name":"Cignis",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "digital-signage-media-hd-video-multimedia-saas"
+    ]
+},
+  "bbox": [
+    10.47651,
+    59.852826,
+    10.47651,
+    59.852826
+],
+  "geometry": {"coordinates":[10.47651,59.852826],"type":"Point"}
+}

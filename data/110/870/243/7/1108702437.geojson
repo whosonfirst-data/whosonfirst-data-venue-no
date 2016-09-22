@@ -1,0 +1,66 @@
+{
+  "id": 1108702437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7601938,59.9112027,10.7601938,59.9112027",
+    "geom:latitude":59.911203,
+    "geom:longitude":10.760194,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Schweigaardsgate 14 Postboks 9216 Gr\u00f8nland",
+    "sg:city":"OSLO",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"0185 ",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907765,
+        "102191581",
+        "85633341",
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BEhdHHlrcUCnJnEBclMGw_59.911203_10.760194@1308163240"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570864,
+    "wof:geomhash":"774d0ccc725aef3b3ca5906f4f5b38a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751917,
+            "neighbourhood_id":85907765,
+            "region_id":85687089,
+            "venue_id":1108702437
+        }
+    ],
+    "wof:id":1108702437,
+    "wof:lastmodified":1474570864,
+    "wof:name":"Eurocenter",
+    "wof:parent_id":85907765,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.7601938,
+    59.9112027,
+    10.7601938,
+    59.9112027
+],
+  "geometry": {"coordinates":[10.7601938,59.9112027],"type":"Point"}
+}

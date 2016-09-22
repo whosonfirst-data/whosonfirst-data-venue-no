@@ -1,0 +1,52 @@
+{
+  "id": 1108702469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"5.756411,58.828445,5.756411,58.828445",
+    "geom:latitude":58.828445,
+    "geom:longitude":5.756411,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Aalgaardsveien 170",
+    "sg:city":"Sandnes",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"4306",
+    "sg:website":"http://www.energreen.no",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22MRsZOGEQYD6TiSf6DvGi_58.828445_5.756411@1308163242"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570865,
+    "wof:geomhash":"fa06270b898ab72a0771fff2793f7927",
+    "wof:hierarchy":[],
+    "wof:id":1108702469,
+    "wof:lastmodified":1474570865,
+    "wof:name":"Energreen",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.756411,
+    58.828445,
+    5.756411,
+    58.828445
+],
+  "geometry": {"coordinates":[5.756411,58.828445],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 1108702427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7431763,59.9093396,10.7431763,59.9093396",
+    "geom:latitude":59.90934,
+    "geom:longitude":10.743176,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"R\u00e5dhusgaten 11",
+    "sg:city":"Oslo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"0151",
+    "sg:tags":[
+        "web-2-0",
+        "social-media",
+        "new-media",
+        "start-ups",
+        "investing",
+        "venture-capital",
+        "strategy",
+        "seo",
+        "search-engine-optimization"
+    ],
+    "sg:website":"http://www.ignitas.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85906313,
+        "102191581",
+        "85633341",
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Mk7SIXplPx20RqXCP1JOC_59.909340_10.743176@1308163239"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570863,
+    "wof:geomhash":"a96ce32e4a7ba99cb05e850fd81c1079",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751917,
+            "neighbourhood_id":85906313,
+            "region_id":85687089,
+            "venue_id":1108702427
+        }
+    ],
+    "wof:id":1108702427,
+    "wof:lastmodified":1474570863,
+    "wof:name":"Ignitas",
+    "wof:parent_id":85906313,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-2-0",
+        "social-media",
+        "new-media",
+        "start-ups",
+        "investing",
+        "venture-capital",
+        "strategy",
+        "seo",
+        "search-engine-optimization"
+    ]
+},
+  "bbox": [
+    10.7431763,
+    59.9093396,
+    10.7431763,
+    59.9093396
+],
+  "geometry": {"coordinates":[10.7431763,59.9093396],"type":"Point"}
+}

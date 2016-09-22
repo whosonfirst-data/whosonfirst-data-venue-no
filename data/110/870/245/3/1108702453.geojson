@@ -1,0 +1,82 @@
+{
+  "id": 1108702453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.763774,59.92085,10.763774,59.92085",
+    "geom:latitude":59.92085,
+    "geom:longitude":10.763774,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Langgata 36",
+    "sg:city":"Oslo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"0566",
+    "sg:tags":[
+        "travel",
+        "wiki",
+        "travel-blogs",
+        "social-networking",
+        "travel-community",
+        "travellers"
+    ],
+    "sg:website":"http://www.travellerspoint.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907771,
+        "102191581",
+        "85633341",
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AS3zimV0rbAtfCwqw0WDR_59.920850_10.763774@1308163238"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570864,
+    "wof:geomhash":"617eca3d18d5d86b0c2ea50b5193f53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751917,
+            "neighbourhood_id":85907771,
+            "region_id":85687089,
+            "venue_id":1108702453
+        }
+    ],
+    "wof:id":1108702453,
+    "wof:lastmodified":1474570864,
+    "wof:name":"Travellerspoint",
+    "wof:parent_id":85907771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "travel",
+        "wiki",
+        "travel-blogs",
+        "social-networking",
+        "travel-community",
+        "travellers"
+    ]
+},
+  "bbox": [
+    10.763774,
+    59.92085,
+    10.763774,
+    59.92085
+],
+  "geometry": {"coordinates":[10.763774,59.92085],"type":"Point"}
+}

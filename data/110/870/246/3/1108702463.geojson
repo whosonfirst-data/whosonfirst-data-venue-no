@@ -1,0 +1,86 @@
+{
+  "id": 1108702463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.812187,59.910781,10.812187,59.910781",
+    "geom:latitude":59.910781,
+    "geom:longitude":10.812187,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"\u00d8stensj\u00f8veien 34",
+    "sg:city":"Oslo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"0667",
+    "sg:tags":[
+        "crm",
+        "erp",
+        "saas",
+        "accounting",
+        "invoice",
+        "ajax",
+        "email",
+        "project-management"
+    ],
+    "sg:website":"http://24SevenOffice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85904443,
+        "102191581",
+        "85633341",
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xVPJ4f4HotNPAR2nY93aW_59.910781_10.812187@1308163239"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570865,
+    "wof:geomhash":"ef5b18f5f5450376119bc4e9c0c1f653",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751917,
+            "neighbourhood_id":85904443,
+            "region_id":85687089,
+            "venue_id":1108702463
+        }
+    ],
+    "wof:id":1108702463,
+    "wof:lastmodified":1474570865,
+    "wof:name":"24SevenOffice",
+    "wof:parent_id":85904443,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crm",
+        "erp",
+        "saas",
+        "accounting",
+        "invoice",
+        "ajax",
+        "email",
+        "project-management"
+    ]
+},
+  "bbox": [
+    10.812187,
+    59.910781,
+    10.812187,
+    59.910781
+],
+  "geometry": {"coordinates":[10.812187,59.910781],"type":"Point"}
+}

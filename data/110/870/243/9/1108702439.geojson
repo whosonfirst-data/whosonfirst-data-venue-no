@@ -1,0 +1,84 @@
+{
+  "id": 1108702439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7637668,59.915256,10.7637668,59.915256",
+    "geom:latitude":59.915256,
+    "geom:longitude":10.763767,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Urtegata 9",
+    "sg:city":"Oslo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"0187",
+    "sg:tags":[
+        "social-media",
+        "community",
+        "communications",
+        "networking",
+        "facebook",
+        "myspace",
+        "friendster"
+    ],
+    "sg:website":"http://www.biip.no",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907771,
+        "102191581",
+        "85633341",
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SPoBPqNC2Kj3jtjvy0y6Q_59.915256_10.763767@1308163241"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570864,
+    "wof:geomhash":"e0a827107d58bad8e5e3aacf519cc16c",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751917,
+            "neighbourhood_id":85907771,
+            "region_id":85687089,
+            "venue_id":1108702439
+        }
+    ],
+    "wof:id":1108702439,
+    "wof:lastmodified":1474570864,
+    "wof:name":"Biip",
+    "wof:parent_id":85907771,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "social-media",
+        "community",
+        "communications",
+        "networking",
+        "facebook",
+        "myspace",
+        "friendster"
+    ]
+},
+  "bbox": [
+    10.7637668,
+    59.915256,
+    10.7637668,
+    59.915256
+],
+  "geometry": {"coordinates":[10.7637668,59.915256],"type":"Point"}
+}

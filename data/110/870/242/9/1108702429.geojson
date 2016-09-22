@@ -1,0 +1,76 @@
+{
+  "id": 1108702429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.7392751,59.9128507,10.7392751,59.9128507",
+    "geom:latitude":59.912851,
+    "geom:longitude":10.739275,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Stortingsgata 2",
+    "sg:city":"Oslo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"0158",
+    "sg:tags":[
+        "business-intelligence",
+        "integration",
+        "soa-governance"
+    ],
+    "sg:website":"http://www.infobuild.fi",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85901651,
+        "102191581",
+        "85633341",
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XNU2IvORozt6PviIvgVrX_59.912851_10.739275@1308163239"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570863,
+    "wof:geomhash":"eaa620b49043435ffcb881cb97e34218",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751917,
+            "neighbourhood_id":85901651,
+            "region_id":85687089,
+            "venue_id":1108702429
+        }
+    ],
+    "wof:id":1108702429,
+    "wof:lastmodified":1474570863,
+    "wof:name":"InfoBuild",
+    "wof:parent_id":85901651,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business-intelligence",
+        "integration",
+        "soa-governance"
+    ]
+},
+  "bbox": [
+    10.7392751,
+    59.9128507,
+    10.7392751,
+    59.9128507
+],
+  "geometry": {"coordinates":[10.7392751,59.9128507],"type":"Point"}
+}

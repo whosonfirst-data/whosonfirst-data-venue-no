@@ -1,0 +1,63 @@
+{
+  "id": 1108702455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.764552,59.949679,10.764552,59.949679",
+    "geom:latitude":59.949679,
+    "geom:longitude":10.764552,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Nydalsveien 28",
+    "sg:city":"Oslo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"0484",
+    "sg:website":"http://www.ergogroup.no",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85633341,
+        85901613,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QAL9JG6sxZ6uHyIXgVbdh_59.949679_10.764552@1308163238"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570864,
+    "wof:geomhash":"de43afaef97925ab68299288796d24ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633341,
+            "neighbourhood_id":85901613,
+            "region_id":85687089,
+            "venue_id":1108702455
+        }
+    ],
+    "wof:id":1108702455,
+    "wof:lastmodified":1474570864,
+    "wof:name":"ErgoGroup",
+    "wof:parent_id":85901613,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    10.764552,
+    59.949679,
+    10.764552,
+    59.949679
+],
+  "geometry": {"coordinates":[10.764552,59.949679],"type":"Point"}
+}

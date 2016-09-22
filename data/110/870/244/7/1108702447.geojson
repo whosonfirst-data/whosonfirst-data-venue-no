@@ -1,0 +1,61 @@
+{
+  "id": 1108702447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"7.9543206,58.155769,7.9543206,58.155769",
+    "geom:latitude":58.155769,
+    "geom:longitude":7.954321,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Setesdalsveien 110",
+    "sg:city":"Kristiansand",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"4617",
+    "sg:tags":[
+        "silicon-carbide",
+        "polyethylene-glycol",
+        "solar-and-integrated-circuitry-industries"
+    ],
+    "sg:website":"http://www.metallkraft.no/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ui5AGiwMMrhPWUQ0mfAZT_58.155769_7.954321@1308163241"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570864,
+    "wof:geomhash":"18cf3cebc1e12c7873592f1045c6f14e",
+    "wof:hierarchy":[],
+    "wof:id":1108702447,
+    "wof:lastmodified":1474570864,
+    "wof:name":"Metallkraft AS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "silicon-carbide",
+        "polyethylene-glycol",
+        "solar-and-integrated-circuitry-industries"
+    ]
+},
+  "bbox": [
+    7.9543206,
+    58.155769,
+    7.9543206,
+    58.155769
+],
+  "geometry": {"coordinates":[7.9543206,58.155769],"type":"Point"}
+}

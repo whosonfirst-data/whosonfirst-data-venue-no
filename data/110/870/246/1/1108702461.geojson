@@ -1,0 +1,94 @@
+{
+  "id": 1108702461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"10.685115,59.92215,10.685115,59.92215",
+    "geom:latitude":59.92215,
+    "geom:longitude":10.685115,
+    "iso:country":"NO",
+    "mz:hierarchy_label":1,
+    "sg:address":"Kristian Augusts gate 7B",
+    "sg:city":"Oslo",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"0164",
+    "sg:tags":[
+        "3d-visualization",
+        "design",
+        "floor-plans",
+        "interior",
+        "homes",
+        "decorate",
+        "furniture",
+        "presentation-networks",
+        "community",
+        "freemium",
+        "premium-features",
+        "property-listing"
+    ],
+    "sg:website":"http://www.viseno.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907753,
+        "102191581",
+        "85633341",
+        101751917,
+        85687089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vRp8w5TRhvjHmuAInkXOX_59.922150_10.685115@1308163238"
+    },
+    "wof:country":"NO",
+    "wof:created":1474570864,
+    "wof:geomhash":"ae99848c40e4dd54b0e34597e358d4c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191581",
+            "country_id":"85633341",
+            "locality_id":101751917,
+            "neighbourhood_id":85907753,
+            "region_id":85687089,
+            "venue_id":1108702461
+        }
+    ],
+    "wof:id":1108702461,
+    "wof:lastmodified":1474570864,
+    "wof:name":"Viseno ",
+    "wof:parent_id":85907753,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-no",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "3d-visualization",
+        "design",
+        "floor-plans",
+        "interior",
+        "homes",
+        "decorate",
+        "furniture",
+        "presentation-networks",
+        "community",
+        "freemium",
+        "premium-features",
+        "property-listing"
+    ]
+},
+  "bbox": [
+    10.685115,
+    59.92215,
+    10.685115,
+    59.92215
+],
+  "geometry": {"coordinates":[10.685115,59.92215],"type":"Point"}
+}
